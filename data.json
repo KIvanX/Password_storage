@@ -1,0 +1,32 @@
+{
+    "Petya": {
+        "master_password": "gAAAAABjyDHNFIQtOE_7hQsmLLAyf-OJg0f86ahOec15tqdorUh-LEDYuOdQavB6jB8XxTikF1QcybmJafRgssWHi0emgF_yyg==",
+        "keys": {
+            "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": {
+                "password": "gAAAAABjyDHNGVOxgQT4zZIPQXydsfjEJTmbPECKKJTzMyXh3is3wvy1wYya9NV3Z3bQwM1juFNviRm1q9oZ-RkccuocYsfpNg==",
+                "link": "https://vk.com/feed"
+            },
+            "\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c": {
+                "password": "gAAAAABjyDHNBTh9us0fyf_IERZYhXCNzJsoCr05eptkrFWFuk3H8X1UAcB8zDq_dVGzyH1RUglflhtSzUUNsaw5SGODzKIfrA==",
+                "link": "https://web.telegram.org/z/"
+            },
+            "\u042f\u043d\u0434\u0435\u043a\u0441 \u043f\u043e\u0447\u0442\u0430": {
+                "password": "gAAAAABjyDHNzr3VmFM9asEIotfuiA_YE5molKQNh4Sl4GKuuoRhJQQZ2GjQIGHMH9ch4Y-rDvya1ityIvKaNcSi8Id_TjcJXQ==",
+                "link": "https://mail.yandex.ru/"
+            },
+            "Google": {
+                "password": "gAAAAABjyDHNS6H5xEBBn12CUO5GHRuWZG56V0yVtRoH8BULU6u2UJLTdSEhdz4wR_M_-mDtuyRt9x0M-XR5wnFqP-abvrbY5Q==",
+                "link": "https://google.com/"
+            }
+        }
+    },
+    "Vitya": {
+        "master_password": "gAAAAABjyDHNA5QM-uGI7N9_Tgds4yBWK3_VQt1SuwJUOb28SZgkPs-ArgTqNLnovWVvSPjLiH4tvR0FN004lIPVSpyM_mljPQ==",
+        "keys": {
+            "vk": {
+                "password": "gAAAAABjyDHNkXty-becBhu5BNS-0nEWEemhOdsHnxdVkXL3_OvVuYiGzH-zF7tvIs-yUvdzcdVlifxac0OjvdbqnGbi78ujPw==",
+                "link": "vk"
+            }
+        }
+    }
+}
